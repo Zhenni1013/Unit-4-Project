@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: #A7EEB5;
+}
+
+.button {
+    background-color: #FBCDF3;
+    color: #5A8556;
+}
+
+.title {
+    color: #757474;
+    font-family: 'Italianno', sans-serif;
+    font-size: 70px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+img{width: 500px;}
+.questions {
+    color: black;
+    font-family: 'Sofia', sans-serif;
+    font-size: 40px;
+    
+}
+
+.lightblue {
+    display: none;
+}
+
+.red {
+    display: none;
+}
+
+.black {
+    display: none;
+}
+
+.pink {
+    display: none;
+}
